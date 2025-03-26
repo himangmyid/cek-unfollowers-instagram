@@ -1,4 +1,12 @@
 ## [fork by syahrulnizam7](https://github.com/syahrulnizam7/Impostorgram)
+<p align="center">
+  <a href="https://github.com/syahrulnizam7/Impostorgram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syahrulnizam7&repo=Impostorgram&theme=tokyonight" alt="GitHub Repo Card - Impostorgram">
+  </a>
+  <a href="https://github.com/himangmyid/cek-unfollowers-instagram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himangmyid&repo=cek-unfollowers-instagram&theme=tokyonight" alt="GitHub Repo Card - Cek Unfollowers Instagram">
+  </a>
+</p>
 
 
 ---
