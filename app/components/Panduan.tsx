@@ -170,7 +170,7 @@ export default function Panduan({ setCurrentPage }: PanduanProps) {
                       </li>
                       <li>
                         Pilih <strong>Unduh ke perangkat</strong>
-                        <div className="mt-2 justify-center flex">
+                        <div className="mt-2 justify-center items-center gap-2 flex flex-col">
                           <Image
                             src="/7.png"
                             alt="Pilih Pusat Akun"
