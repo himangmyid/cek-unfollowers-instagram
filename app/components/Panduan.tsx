@@ -138,6 +138,15 @@ export default function Panduan({ setCurrentPage }: PanduanProps) {
                       </li>
                       <li className="pb-1 md:pb-2">
                         Centang akun Anda Instagram dan pilih berikutnya{" "}
+                        <div className="mt-2 justify-center flex">
+                          <Image
+                            src="/4.4.png"
+                            alt="Instagram"
+                            width={270}
+                            height={150}
+                            className="rounded-lg lg:w-96"
+                          />
+                        </div>
                       </li>
                       <li>
                         Pilih <strong>Beberapa informasi Anda Scroll keabawah cari</strong> dan
@@ -165,6 +174,13 @@ export default function Panduan({ setCurrentPage }: PanduanProps) {
                           <Image
                             src="/7.png"
                             alt="Pilih Pusat Akun"
+                            width={270}
+                            height={150}
+                            className="rounded-lg lg:w-96"
+                          />
+                                                    <Image
+                            src="/8.8.png"
+                            alt="Json"
                             width={270}
                             height={150}
                             className="rounded-lg lg:w-96"
